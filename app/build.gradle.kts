@@ -49,6 +49,7 @@ dependencies {
     // For XML layout
     implementation(libs.androidx.recyclerview)
     implementation(libs.androidx.constraintlayout)
+    implementation(libs.androidx.paging.runtime.ktx)
 
     // For Compose
     implementation(libs.androidx.activity.compose)
